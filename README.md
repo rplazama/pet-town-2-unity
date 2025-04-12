@@ -13,10 +13,10 @@ El proyecto se encuentra en fase inicial de desarrollo. Esta rama contiene:
 - Documentación inicial
 
 ## Instalación y ejecución
-[Instrucciones sobre cómo clonar el repositorio, requisitos y ejecución]
+[Pendiente]
 
 ## Estructura del proyecto
-[Breve descripción de la organización de carpetas y archivos principales]
+[Pendiente]
 
 ## Licencia
 Este proyecto está bajo licencia Creative Commons [CC BY-NC-ND 4.0]. Ver archivo LICENSE para más detalles.
