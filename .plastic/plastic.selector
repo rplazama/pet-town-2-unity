@@ -1,0 +1,4 @@
+repository "Project_Pet_2.0/Project_Pet_2.0@1375351378514@cloud"
+  path "/"
+    br "/main"
+    co "/main"
